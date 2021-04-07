@@ -508,7 +508,7 @@ transition: all 0.5s ease-in-out;
 }
 .box_contact{
 	overflow:hidden;
-	margin: 54px 0 0 0;
+	margin: 64px 0 0 0;
 }
 .box_contact span{
 	color: #fff;
@@ -517,8 +517,8 @@ transition: all 0.5s ease-in-out;
 	line-height: 32px;
 	text-transform: uppercase;
 	display: block;
-	margin: 0 0 55px;
-	padding: 5px 0 18px 80px;
+	margin: 0 0 64px;
+	padding: 18px 0 18px 80px;
 }
 .box_contact span.email{background: url(../images/icon_email2.png) no-repeat;}
 .box_contact span.phone{background: url(../images/icon_phone.png) no-repeat;}
@@ -721,7 +721,7 @@ transition: all 0.5s ease-in-out;
 	}
 	.box_contact span.linkedin{
 		background-image: url(../images/icon_lig@x2.png);
-		background-size:54px 51px;
+		background-size:54px 54px;
 	}
 /* begin add	 */
 	.fancybox-close {
